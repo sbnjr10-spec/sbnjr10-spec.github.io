@@ -31,7 +31,7 @@
   "design": {
     "preset": "immersive",
     "color": {
-      "background": "#646468",
+      "background": "#7e494b",
       "surface": "#161617",
       "text": "#f4f4f2",
       "muted": "#9a9a96",
