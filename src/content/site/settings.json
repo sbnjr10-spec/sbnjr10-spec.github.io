@@ -31,7 +31,7 @@
   "design": {
     "preset": "immersive",
     "color": {
-      "background": "#7e494b",
+      "background": "#593132",
       "surface": "#161617",
       "text": "#f4f4f2",
       "muted": "#9a9a96",
@@ -42,8 +42,8 @@
       "heading": "#f4f4f2"
     },
     "type": {
-      "headingFont": "Archivo",
-      "bodyFont": "Archivo",
+      "headingFont": "Playfair Display",
+      "bodyFont": "Jost",
       "headingWeight": 700,
       "bodyWeight": 400,
       "baseSize": 16,
