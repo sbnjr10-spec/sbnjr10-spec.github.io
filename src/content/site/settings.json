@@ -1,7 +1,7 @@
 {
-  "siteTitle": "Your portfolio",
+  "siteTitle": "Sabin Parajuli",
   "tagline": "",
-  "logoText": "Your name",
+  "logoText": "Sabin Parajuli",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
   "portfolioLayout": "masonry",
@@ -15,5 +15,108 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": []
+  "socialLinks": [],
+  "supportLinks": [],
+  "linksEnabled": false,
+  "links": [],
+  "searchEnabled": false,
+  "cvAutoExhibitions": false,
+  "commissionsMode": "form",
+  "analyticsProvider": "none",
+  "sellEnabled": false,
+  "availableForWork": false,
+  "newsletterEnabled": false,
+  "newsletterProvider": "netlify",
+  "stockists": [],
+  "design": {
+    "preset": "immersive",
+    "color": {
+      "background": "#646468",
+      "surface": "#161617",
+      "text": "#f4f4f2",
+      "muted": "#9a9a96",
+      "accent": "#f4f4f2",
+      "accent2": "#d8a24a",
+      "border": "#2a2a2c",
+      "link": "#f4f4f2",
+      "heading": "#f4f4f2"
+    },
+    "type": {
+      "headingFont": "Archivo",
+      "bodyFont": "Archivo",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "baseSize": 16,
+      "headingTransform": "none",
+      "letterSpacing": -0.01
+    },
+    "shape": {
+      "radius": 0,
+      "borderWidth": 0,
+      "shadows": "none"
+    },
+    "density": "compact",
+    "contentWidth": "wide",
+    "readingWidth": "relaxed",
+    "motion": "smooth",
+    "nav": {
+      "layout": "top"
+    },
+    "home": {
+      "landing": "work"
+    },
+    "logo": {
+      "mode": "none"
+    },
+    "background": {
+      "type": "solid"
+    },
+    "thumb": {
+      "fit": "cover",
+      "hover": "none"
+    },
+    "gallery": {
+      "layout": "masonry",
+      "size": "large",
+      "gutter": "none",
+      "caption": "hover",
+      "cardStyle": "bare",
+      "captionDetail": "full",
+      "captionOverlay": "scrim",
+      "featureFirst": false,
+      "adaptiveSpans": false,
+      "click": "lightbox",
+      "filters": false
+    },
+    "lightbox": {
+      "transition": "fade",
+      "zoom": true
+    },
+    "hero": {
+      "enabled": false,
+      "align": "left",
+      "size": "small"
+    },
+    "footer": {
+      "socials": true,
+      "credit": true
+    },
+    "favicon": {
+      "mode": "initials"
+    },
+    "pages": {
+      "about": true,
+      "contact": true,
+      "cv": true,
+      "press": true,
+      "exhibitions": false,
+      "news": false,
+      "available": true,
+      "presskit": false,
+      "commissions": false,
+      "shop": false,
+      "projects": false,
+      "stockists": false
+    }
+  }
 }
